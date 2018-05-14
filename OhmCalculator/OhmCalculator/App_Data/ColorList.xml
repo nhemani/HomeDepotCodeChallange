@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Colors>
+<Color text="Black     0" Value="0"></Color>
+  <Color text="Brown     1" Value="1"></Color>
+  <Color text="Red     2" Value="2"></Color>
+  <Color text="Orange     3" Value="3"></Color>
+  <Color text="Yellow     4" Value="4"></Color>
+  <Color text="Green     5" Value="5"></Color>
+  <Color text="Blue     6" Value="6"></Color>
+  <Color text="Violet     7" Value="7"></Color>
+  <Color text="Gray     8" Value="8"></Color>
+  <Color text="White     9" Value="9"></Color>
+</Colors>
